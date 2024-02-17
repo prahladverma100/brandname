@@ -67,7 +67,7 @@ const Header = () => {
                             </div>
                         </div>
                         <div className='w-full lg:w-1/2 flex justify-center pt-8 lg:pt-0' data-aos="fade-left">
-                            <img className=' w-full max-w-[531px]' src={hero_img} alt="" />
+                            <img className=' w-full max-w-[531px]' src={hero_img} alt=""/>
                         </div>
                     </div>
                 </div>
